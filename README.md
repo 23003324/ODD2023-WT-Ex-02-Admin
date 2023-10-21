@@ -1,7 +1,7 @@
 # Ex-02-Admin
 ## Name : Haritha Ramesh
 ## Reference Number : 23003324
-## Department : (CSE Cyser Security) 
+## Department : (CSE Cyber Security) 
 # AIM
 To create a Django website with five users. 
 # Design Procedure
