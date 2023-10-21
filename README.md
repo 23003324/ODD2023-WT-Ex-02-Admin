@@ -17,3 +17,8 @@ To create a Django website with five users.
 ![](./Screenshot%202023-10-20%20133521.png)
 # Result :
 A Django website with five users was successfully created.
+
+
+
+
+rtfyhujhytreswdefrtgyj
