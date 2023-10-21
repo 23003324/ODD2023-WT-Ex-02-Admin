@@ -5,7 +5,7 @@ REFERENCE NUMBER: 23003324
 
 DEPARTMENT: CSE(cyber security)
 
-# AIM
+# AIM:
 To create a Django website with five users.
 # Design Procedure:
 Create a Django website with five users. Two users are to be staff users (including admin) and the other three users are non-staff users.
@@ -18,6 +18,6 @@ Create a Django website with five users. Two users are to be staff users (includ
 
 4. Setting the first name and last name for all users
 
-# Output
+# Output:
 
 ![Alt text](<Screenshot 2023-10-20 133521.png>)
