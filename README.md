@@ -18,6 +18,6 @@ Create a Django website with five users. Two users are to be staff users (includ
 
 4. Setting the first name and last name for all users
 
-
+# Output
 
 ![Alt text](<Screenshot 2023-10-20 133521.png>)
