@@ -1,10 +1,10 @@
-### Ex-02-Admin
-#### Name : Haritha Ramesh
-#### Reference Number : 23003324
-#### Department : (CSE Cyser Security) 
-### AIM
+# Ex-02-Admin
+## Name : Haritha Ramesh
+## Reference Number : 23003324
+## Department : (CSE Cyser Security) 
+# AIM
 To create a Django website with five users. 
-### Design Procedure
+# Design Procedure
 1. Create a Django website with five users. Two users are to be staff users (including admin) and the other three users are non-staff users.
 2. Creating five users
 
@@ -15,5 +15,5 @@ To create a Django website with five users.
 5. Setting the first name and last name for all users
 # Output :
 ![](./Screenshot%202023-10-20%20133521.png)
-### Result :
+# Result :
 A Django website with five users was successfully created.
